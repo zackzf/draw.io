@@ -1,1 +1,61 @@
-<mxfile host="www.draw.io" modified="2020-02-19T08:05:35.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="AFHrmJoUHqc1_gNU750G" version="12.7.2" type="github"><diagram id="s6NoYXsi8lFGEBUorLSi" name="第 1 页">3ZhRk5owEMc/zT5eBwhg8giKttPetHc+9PGGgwhM0ViMVfvpu8GgIjj1Ol7h7sllNwHyy383i0CG8+2kCJfpvYh5DpYRb4GMwLJMg1D8UZ7d3uMQtnckRRbrQUfHNPvNq5nau85ivqoNlELkMlvWnZFYLHgka76wKMSmPmwm8vpTl2HCG45pFOZN7/csluneS63B0f+RZ0laPdl09frmYTVYr2SVhrHYnLhIAGRYCCH31nw75LmCV3HZzxtfiB5erOALec2EydhKRBo9Te4G3P6ZjB++7T7fEbK/za8wX+sV67eVuwpBIdaLmKu7GED8TZpJPl2GkYpucNPRl8p5jlcmmrMsz4ciF0U5l8Qhp7MI/StZiB/8JOJGlD/PMKJfgBeSby8uzTwAQ6VxMeey2OEQPcFyNWMtMmLr681xy0yqfenpdlXOUMskOdz7SBINDfMFYM33wNWuYzVJ51irvHtXXHsg1wrj2+Z6Xgd6IFinwdV7FM9Y8wMHmAE0UAYdg29AMAAvAM9Uhgq5ELjAhkBH5RhPhS7vifn3PbkBYdepA6YtgEkLYPJafFlTtwjL94DZJUcbPNrCUdFnKnQOFNHIOrUwz5IF2hEi4sVtMNIzjC0FgP1PilW3dYLxfjd9+NI3vR2aqc70ZjYP9kceZ6vekXI7J9VsLb1PKicpJh6DwAZ/BIxAQMEbl9UOkxNtv4dlr5GwzPrgdM3XbvD9Onx8A/Ase9A9PLfl3HDBR2bl4eDhAWKdaPT6A6TjvLeNHiizpUlXWT4osxypWcBMZWD3wDxdANioh9I9h+v0QLnNjoeU6FCLWpcBUL/UrldyRllT8Et9s3G7mrvmfF4ibPPK08s9qP32n0TN+qrOL1f17KqnvNykd9xcEqNn3aXV1qT/Uz3oV9tOnI7BkubXpaoFL8n8nmn1FZHi5fHP1jJ28pc1Cf4A</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-19T08:14:01.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="jPeUy8kzhJdH9N807QH6" version="12.7.2" type="github">
+  <diagram id="s6NoYXsi8lFGEBUorLSi" name="第 1 页">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ks2vOrF6mkPXPLBrddVX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry y="100" width="480" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="260" y="340" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="130" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="340" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="260" y="130" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-5" value="ARobot后台管理服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-9" value="应用服务器" style="text;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="85" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-10" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-11" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-13" value="AI物体识别服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="192.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-14" value="OCR服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="247.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-16" value="流媒体服务器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="402.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-17" value="视频通话服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="457.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-19" value="3D模型云渲染服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="410" width="130" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-24" value="AI推理服务器" style="text;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="305" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-29" value="视频通话服务器" style="text;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="85" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GF2gohc_G-7e4qgFQPyK-35" value="3D云渲染服务器" style="text;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="305" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
